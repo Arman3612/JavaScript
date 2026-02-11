@@ -7,7 +7,7 @@ const parchi=new Promise(function(resolve,reject){
         else reject();
     })
 })
-parchi
+parchi 
 .then(function(){
     console.log("hara button");
 })
